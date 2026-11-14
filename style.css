@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.main-head { 
+    background-color: black;
+    color: red ;
+    text-align: center;
+    background-size: 20px auto ; 
+}
+
+.navbar {
+    justify-content: center;
+    gap: 18px;
+    display: flex;
+}
+
+.navbar a {
+    color: aliceblue;
+    text-decoration: none ;
+}
+
+hr {
+    border-color: red;
+}
