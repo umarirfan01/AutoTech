@@ -56,3 +56,39 @@ hr {
     color: white;
     text-decoration: none ;
 }
+
+/* ABOUT SECTION */
+
+#about h4 {
+    color: rgb(131, 131, 131);
+}
+
+#about h1 {
+    color: red;
+}
+
+#about p {
+    color: white;
+}
+
+#about ul {
+    color: white;
+}
+
+/* SERVICES SECTION */
+
+#services h4 {
+    color: rgb(131, 131, 131);
+}
+
+#services h1 {
+    color: white;
+}
+
+#services p {
+    color: white;
+}
+
+#services ul {
+    color: white;
+}
