@@ -23,3 +23,36 @@ body {
 hr {
     border-color: red;
 }
+
+/* HOME SECTION */
+
+#home {
+    background: red url("https://images.openai.com/static-rsc-4/Q5IvLvHmAUZ8YP5DAfNXALDt8wgFvQzyRzC42QYf88WRRdBOEdY1c4uh2eiTiPkX5-jXcKr8gGg0HkB5KNuKxNSzJ1w3tEheuvZnLwb7f7O-P3g-_Cb__6YlZw4pg4XwJqafCQAmIZsaS0VHrnD6_AUBL7bjBPh2dBpZe6I9VVMSgVcaG5mkoos4bClBPK7i?purpose=fullsize");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#home p {
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#home h1 {
+    color: red;
+    font-size: 45px;
+}
+
+#home button {
+    background-color: red;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#home button a {
+    color: white;
+    text-decoration: none ;
+}
