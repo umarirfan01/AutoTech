@@ -249,3 +249,19 @@ hr {
     border-radius: 14px;
 }
 
+/* GALLERY SECTION */
+
+#gallery h4 {
+    color: rgb(131, 131, 131);
+}
+
+#gallery h2 {
+    color: red;
+    font-size: 35px;
+    text-align: center;
+}
+
+#gallery img {
+    border-radius: 15px;
+}
+
