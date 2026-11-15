@@ -92,3 +92,160 @@ hr {
 #services ul {
     color: white;
 }
+
+/* PACKAGES */
+
+#packages h4 {
+    color: rgb(131, 131, 131);
+}
+
+#packages p {
+    color: white;
+}
+
+/* CARD 1 */
+
+.card1 h6 {
+    background-color:green;
+    width: 55px;
+    height: 18px;
+    padding: 1px;
+    margin: 3px;
+    color:white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.card1 h2 {
+    color: white;
+    font-size: 35px;
+}
+
+.card1 h3 {
+    color: white;
+    font-size: 28px;
+}
+
+.card1 ul {
+    color: white;
+}
+
+.card1 a {
+    background-color: red;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none ;
+}
+
+.card1 {
+    background-color: rgb(49, 49, 49);
+    width: 260px;
+    height: 325px;
+    padding: 24px;
+    margin: 30px auto;
+    border: 3px solid red;
+    border-radius: 14px;
+}
+
+/* CARD 2 */
+
+.card2 h6 {
+    background-color:blue;
+    width: 80px;
+    height: 20px;
+    padding: 1px;
+    margin: 3px;
+    color:white;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.card2 h2 {
+    color: white;
+    font-size: 35px;
+}
+
+.card2 h3 {
+    color: white;
+    font-size: 28px;
+}
+
+.card2 ul {
+    color: white;
+}
+
+.card2 a {
+    background-color: red;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none ;
+}
+
+.card2 {
+    background-color: rgb(49, 49, 49);
+    width: 260px;
+    height: 325px;
+    padding: 24px;
+    margin: 30px auto;
+    border: 3px solid red;
+    border-radius: 14px;
+}
+
+/* CARD 3*/
+
+.card3 h6 {
+    background-color:purple;
+    width: 80px;
+    height: 20px;
+    padding: 1px;
+    margin: 3px;
+    color:white;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.card3 h2 {
+    color: white;
+    font-size: 35px;
+}
+
+.card3 h3 {
+    color: white;
+    font-size: 28px;
+}
+
+.card3 ul {
+    color: white;
+}
+
+.card3 a {
+    background-color: red;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none ;
+}
+
+.card3 {
+    background-color: rgb(49, 49, 49);
+    width: 260px;
+    height: 325px;
+    padding: 24px;
+    margin: 30px auto;
+    border: 3px solid red;
+    border-radius: 14px;
+}
+
